@@ -6,6 +6,8 @@ Website is a static HTML website using semantic tags and minimal CSS.
 
 clone repo and open 'index.html' in preferred browser
 
+-or-
+
 Navigate to https://todayisfineforme.github.io/About.Me/
 
 ## Contributing
