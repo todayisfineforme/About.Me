@@ -4,7 +4,7 @@ Website is a static HTML website using semantic tags and minimal CSS.
 
 ## Usage
 
-Navigate to 
+Navigate to https://todayisfineforme.github.io/About.Me/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
