@@ -7,10 +7,6 @@ Website is a static HTML website using semantic tags and minimal CSS.
 
 Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
 
-```bash
-npm install foobar
-```
-
 ## Usage
 
 ```node.js
